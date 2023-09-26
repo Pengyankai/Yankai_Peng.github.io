@@ -14,3 +14,6 @@ I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX La
 
 You can find my CV here: [Yankai Peng's Curriculum Vitae](Yankai_Peng.github.io/assets
 /CV_Yankai Peng.pdf).
+
+[Email](pengyankai10@gmail.com) 
+
