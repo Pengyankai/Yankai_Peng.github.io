@@ -12,4 +12,5 @@ I'm a third year undergraduate student from [Glasgow College](https://www.gla.ue
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
-You can find my CV here: [Yankai Peng's Curriculum Vitae](../assets/CV_Yankai Peng.pdf).
+You can find my CV here: [Yankai Peng's Curriculum Vitae](Yankai_Peng.github.io/assets
+/CV_Yankai Peng.pdf).
